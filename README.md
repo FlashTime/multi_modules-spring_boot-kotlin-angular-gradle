@@ -1,5 +1,6 @@
 # multi_modules-spring_boot-kotlin-angular-gradle
-multi modules spring boot kotlin angular gradle
+
+This guide shows you how to create a multi-module project with Spring Boot(kotlin), Angular and Gradle in Intellij
 
 ## Intellij idea
 ## [Gradle](https://github.com/FlashTime/multi_modules-spring_boot-kotlin-angular-gradle/wiki/1.-add-Gradle)
